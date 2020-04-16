@@ -1,0 +1,7 @@
+/* 06_09 Stylesheet */
+
+label {
+    display: block;
+    width: 7em;
+    float: left;
+}
